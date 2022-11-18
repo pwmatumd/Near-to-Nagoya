@@ -1,7 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-othernames,Other Names
 date,Date Created,
 description,Description,
 subject,Subjects,true
@@ -14,3 +13,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+othernames,Other Names
