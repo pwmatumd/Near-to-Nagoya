@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+When I went to Japan in 2019, I only expected to be there for 8 months. When Covid-19 hit, I decided to stay in Japan and ended up there until April 2022. During my time in Japan I had the opportunity to try many unique, exciting, and historic experiences. My weekends were always full of journeys to new and favorite places. Here on this website I've collected photos of various locales I enjoyed, along with memories, folklore, and history I learned at each of them. Each page offers a representative image of these places, ones which I want to remember for many years down the line. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+In order to remember them, I've chronicled them here while the experiences are fresh in my memory. Welcome to the library of my time in Japan!
 {% include cb/about_the_about.md %} 
