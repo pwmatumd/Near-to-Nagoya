@@ -1,8 +1,9 @@
 field,index,display
 title,true,true
-date,true,true
+date,true,false
 creator,true,false
-description,true,true
+description,true,false
 subject,true,true
 location,true,false
 prefecture,true,true
+city,true,true
